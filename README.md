@@ -1,5 +1,6 @@
 > [!IMPORTANT]
 > This repository has been superseded by [aviutl2_community_translation](https://github.com/aviutl2/aviutl2_community_translation). Please use or contributed to it instead!
+>> To use this translation as a backup for any missed translations, rename it to `community_en.[Whatever_you_want_to_call_this_translation].aul2` .
 
 # aviutl2-EN
 
